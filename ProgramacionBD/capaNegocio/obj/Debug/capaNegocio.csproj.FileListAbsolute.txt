@@ -1,0 +1,10 @@
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaEntidades.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\bin\Debug\capaEntidades.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaNegocio\obj\Debug\capaNegocio.pdb

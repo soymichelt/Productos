@@ -1,0 +1,8 @@
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\bin\Debug\capaEntidades.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\bin\Debug\capaEntidades.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaDatos\obj\Debug\capaDatos.pdb

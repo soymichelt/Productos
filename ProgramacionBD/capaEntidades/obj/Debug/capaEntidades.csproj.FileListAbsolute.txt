@@ -1,0 +1,6 @@
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\Saira\Downloads\Planificacion2018\ProgramacionBD\Proyectos\ProgramacionBD\capaEntidades\obj\Debug\capaEntidades.pdb
